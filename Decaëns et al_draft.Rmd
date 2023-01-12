@@ -17,7 +17,6 @@ csl: zoosystema.csl
 
 ```{r, include=FALSE}
 library(knitr)
-library(kableExtra)
 library(flextable)
 library(tidyverse)
 library(plyr)
