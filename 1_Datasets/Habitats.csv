@@ -1,0 +1,23 @@
+﻿Codes;Site description;X;Y;Altitude;Habitat;Microhabitats
+BC;Mitaraka base camp;2.23399;-54.45033;331;Plateau forest;Soil, decaying trunks, epiphytes
+AL;A trail / Lowland;2.24334;-54.46457;327;Lowland forest;Soil, decaying trunks, litter
+AS;A trail / Slope;2.23823;-54.45203;344;Slope forest;Soil, decaying trunks
+AP;A trail / Plateau;2.24362;-54.45883;371;Plateau forest;Soil, decaying trunks, epiphytes
+HF;Heliconia forest;2.23068;-54.44939;351;Plateau forest;Soil, decaying trunks
+CL;C trail / Lowland;2.23833;-54.44912;310;Lowland forest;Soil, decaying trunks
+CS;C trail / Slope;2.23545;-54.44478;377;Slope forest;Soil, decaying trunks
+CP;C trail / Plateau;2.23316;-54.44381;449;Plateau forest;Soil, decaying trunks
+DL;D trail / Lowland;2.23298;-54.45209;318;Lowland forest;Soil, decaying trunks
+DS;D trail / Slope;2.22755;-54.45371;339;Slope forest;Soil, decaying trunks
+DP;D trail / Plateau;2.21636;-54.45698;381;Plateau forest;Soil, decaying trunks
+HF1;"Hiltop forest #1 (""Sommet en Cloche"")";2.22857;-54.46726;638;Hiltop forest;Soil, decaying trunks
+HF2;"Hiltop forest #2 (""Borne 1"")";2.20976;-54.43690;600;Hiltop forest;Soil, decaying trunks
+TF1;"Transition forest #1 (""Sommet en Cloche"")";2.23184;-54.46090;401;Transition forest;Soil, decaying trunks, litter
+TF2;"Transition forest #2 (""Layon C"")";2.23864;-54.43518;389;Transition forest;Decaying trunks
+TF3;"Transition forest #3 (""Sommet en Cloche"")";2.23309;-54.45957;395;Transition forest;Soil
+TF4;"Transition forest #4 (""Tchoukouchipan"")";2.24839;-54.48692;405;Transition forest;Soil
+TCH;"Transition forest #5 (""Tchoukouchipan"")";2.24620;-54.48619;329;Transition forest;Cave
+RS1;"Rocky savannah #1 (""Sommet en Cloche"")";2.22794;-54.46715;623;Rocky savannah;Soil, roots
+RS2;"Rocky savannah #2 (""Sommet en Cloche"")";2.23293;-54.46088;427;Rocky savannah;Roots
+RS3;"Rocky savannah #3 (""Layon C"")";2.23860;-54.43477;401;Rocky savannah;Roots
+RS4;"Rocky savannah #4 (""Borne 1"")";2.20821;-54.43890;585;Rocky savannah;Roots
